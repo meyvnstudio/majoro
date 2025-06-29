@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "home": "Ahabanza",
+    "properties": "Imitungo",
+    "members": "Abanyamuryango",
+    "pages": "Ibindi",
+    "contact": "Twandikire",
+    "login": "Kwinjira",
+    "register": "Kwiyandikisha",
+    "submitProperty": "Tanga Umutungo",
+    "callUs": "Duhamagare"
+  },
+  "hero": {
+    "title": "Shakisha Inzu y'Inzozi Zawe",
+    "subtitle": "Kuva kumadorari 100 ku kwezi urashobora kubona inzu ikodeshwa",
+    "rent": "Gukodesha",
+    "sale": "Kugurisha",
+    "search": "Shakisha",
+    "advanced": "Byimbitse"
+  },
+  "common": {
+    "loading": "Birashakishwa...",
+    "error": "Ikosa",
+    "success": "Byagenze neza",
+    "cancel": "Kuraguza",
+    "save": "Kubika",
+    "delete": "Gusiba",
+    "edit": "Guhindura",
+    "view": "Kureba",
+    "back": "Gusubira inyuma",
+    "next": "Komeza",
+    "previous": "Ibanjirije"
+  },
+
+  "homepage": {
+    "featuredProperties": "Imitungo Yatoranijwe",
+    "pickedByTeam": "Imitungo yatoranijwe n'itsinda ryacu",
+    "featured": "Ibyatoranijwe"
+  }
+}

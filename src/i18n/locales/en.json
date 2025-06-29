@@ -1,0 +1,40 @@
+{
+  "nav": {
+    "home": "Home",
+    "properties": "Properties",
+    "members": "Members",
+    "pages": "Pages",
+    "contact": "Contact",
+    "login": "Login",
+    "register": "Register",
+    "submitProperty": "Submit Property",
+    "callUs": "Call Us"
+  },
+  "hero": {
+    "title": "Find Your Dream Home",
+    "subtitle": "From as low as $100 you can get rental home.",
+    "rent": "Rent",
+    "sale": "Sale",
+    "search": "Search",
+    "advanced": "Advanced"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "view": "View",
+    "back": "Back",
+    "next": "Next",
+    "previous": "Previous"
+  },
+
+  "homepage": {
+    "featuredProperties": "Featured Properties",
+    "pickedByTeam": "Handpicked properties by Our Team",
+    "featured": "Featured"
+  }
+}
