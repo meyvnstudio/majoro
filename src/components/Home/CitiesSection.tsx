@@ -3,33 +3,33 @@ import React from 'react';
 export default function CitiesSection() {
   const cities = [
     {
-      name: 'Miami',
-      properties: '12 Properties',
+      name: 'Kanombe',
+      properties: '4 Properties',
       image: 'https://images.pexels.com/photos/3075993/pexels-photo-3075993.jpeg?auto=compress&cs=tinysrgb&w=400'
     },
     {
-      name: 'Los Angeles',
-      properties: '25 Properties',
+      name: 'Kibagabaga',
+      properties: '2 Properties',
       image: 'https://images.pexels.com/photos/1829980/pexels-photo-1829980.jpeg?auto=compress&cs=tinysrgb&w=400'
     },
     {
-      name: 'New York',
-      properties: '35 Properties',
+      name: 'Kacyiru',
+      properties: '3 Properties',
       image: 'https://images.pexels.com/photos/2041627/pexels-photo-2041627.jpeg?auto=compress&cs=tinysrgb&w=400'
     },
     {
-      name: 'Florida',
+      name: 'Gahanga',
       properties: '15 Properties',
       image: 'https://images.pexels.com/photos/1619317/pexels-photo-1619317.jpeg?auto=compress&cs=tinysrgb&w=400'
     },
     {
-      name: 'Orlando',
+      name: 'Remera',
       properties: '8 Properties',
       image: 'https://images.pexels.com/photos/1329711/pexels-photo-1329711.jpeg?auto=compress&cs=tinysrgb&w=400'
     },
     {
-      name: 'Atlanta',
-      properties: '18 Properties',
+      name: 'Gacuriro',
+      properties: '1 Properties',
       image: 'https://images.pexels.com/photos/1323712/pexels-photo-1323712.jpeg?auto=compress&cs=tinysrgb&w=400'
     }
   ];
